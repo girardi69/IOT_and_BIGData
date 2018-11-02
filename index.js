@@ -1,5 +1,5 @@
-function checkEqual(a, b) {
-  return a === b ? true : false ;
+function checkSign(num) {
+  return (num === 0) ? "zero" : (num > 0) ? "positive" : "negative";
 }
 
-console.log(checkEqual(2, 2));
+console.log(checkSign(0));
