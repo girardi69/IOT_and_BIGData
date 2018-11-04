@@ -7,7 +7,7 @@ function editInPlace() {
   s[2] = 7;
    
   // s = [2, 5, 7]; <- this is invalid
-
+  return s;
   // change code above this line
 }
 
