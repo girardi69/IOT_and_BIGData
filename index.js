@@ -1,13 +1,13 @@
+// Developer MOZILLA
+
+/*  EXAMPLE FOR .filter
 //var words = ['spray', 'limit', 'elite', 'exuberant', 'destruction', 'present'];
-
 //const result = words.filter(word => word.length > 8 );
-
-//console.log(result);
+console.log(result); */
 // expected output: Array ["exuberant", "destruction", "present"]
 
+/*   EXAMPLE FOR .includes
 var words = ['limit', 'elite'];
-
 const result = words.includes("limit");
-
-console.log(result);
-// expected output: Array ["limit", "elite", "present"]
+console.log(result); */
+// expected output: true
