@@ -1,16 +1,8 @@
-const then = new Date();
-const now = () => new Date();
-let count = 0;
-
-console.log(`then: ${then.getSeconds()}`);
-console.log(`now: ${now().getSeconds()}`);
-
-
-const timer = setInterval(function() {
-	count++;	
-  console.log('Two seconds later...');
-	console.log(`then: ${then.getSeconds()}`);
-	console.log(`now: ${now().getSeconds()}`);
-  console.log('----------');
-	if (count === 10) clearInterval(timer);
-}, 1000);
+const myConcat = function(arr1, arr2) {
+  "use strict";
+  return arr1.concat(arr2);
+};
+// test your code
+console.log(myConcat([1, 2], [3, 4, 5]));
+//const myConcat = () => arr1.concat(arr2);
+// test your code
