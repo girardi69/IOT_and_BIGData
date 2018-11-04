@@ -6,8 +6,8 @@
 console.log(result); */
 // expected output: Array ["exuberant", "destruction", "present"]
 
-/*   EXAMPLE FOR .includes
+//  EXAMPLE FOR .includes
 var words = ['limit', 'elite'];
 const result = words.includes("limit");
-console.log(result); */
+console.log(result);
 // expected output: true
