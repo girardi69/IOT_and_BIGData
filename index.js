@@ -1,5 +1,12 @@
-function checkSign(num) {
-  return (num === 0) ? "zero" : (num > 0) ? "positive" : "negative";
-}
 
-console.log(checkSign(0));
+function checkScope() {
+  "use strict";
+    let i = "function scope";
+    if (true) {
+      let i = "block scope";
+      console.log("Block scope i is: ", i);
+    }
+    console.log("Function scope i is: ", i);
+    return i;
+  }
+console.log(checkScope());
