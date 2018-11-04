@@ -13,4 +13,4 @@ const timer = setInterval(function() {
 	console.log(`now: ${now().getSeconds()}`);
   console.log('----------');
 	if (count === 10) clearInterval(timer);
-}, 2000);
+}, 1000);
