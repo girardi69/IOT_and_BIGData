@@ -1,15 +1,9 @@
-const s = [5, 7, 2];
-function editInPlace() {
-  "use strict";
-  // change code below this line
-  s[0] = 2;
-  s[1] = 5;
-  s[2] = 7;
-   
-  // s = [2, 5, 7]; <- this is invalid
-  return s;
-  // change code above this line
-}
-
-
-console.log(editInPlace());
+let obj = {
+  name:"FreeCodeCamp",
+  review:"Awesome"
+};
+Object.freeze(obj);
+obj.review = "bad"; //will be ignored. Mutation not allowed
+obj.newProp = "Test"; // will be ignored. Mutation not allowed
+console.log(obj); 
+// { name: "FreeCodeCamp", review:"Awesome"}
