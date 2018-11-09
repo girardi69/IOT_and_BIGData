@@ -15,6 +15,6 @@ console.log(result); */
 //  EXAMPLE FOR .map
 var words = ['limit', 'elite'];
 const result = words.push("cow");
-words.push("mamma mia");
+words.push("This is definitely to test last change");
 console.log(words);
 // expected output: elite
