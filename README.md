@@ -4,3 +4,4 @@ So let's for example imagine that we have some basic code practice, how can we h
 This is a test of a change with the git interface  
 can we have one more line??   
 do you agree??
+I'm Peter Weyland and if you indulge me I would like to change the world
