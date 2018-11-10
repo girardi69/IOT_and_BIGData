@@ -1,12 +1,6 @@
-const s = [5, 7, 2];
-function editInPlace() {
+var myConcat = function(arr1, arr2) {
   "use strict";
-  // change code below this line
-
- s[0]=2;
- s[2]=7;
- s[1]=5;
-return s;
-  // change code above this line
-}
-console.log(editInPlace());
+  return arr1.concat(arr2);
+};
+// test your code
+console.log(myConcat([1, 2], [3, 4, 5]));
