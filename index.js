@@ -1,10 +1,8 @@
-let catName;
-let quote;
-function catTalk() {
-  "use strict";
-
-  catName = "Oliver";
-  quote = catName + " says Meow!";
-
+var numArray = [];
+for (var i = 0; i < 3; i++) {
+  numArray.push(i);
 }
-console.log(catTalk());
+console.log(numArray);
+// returns [0, 1, 2]
+console.log(i);
+// returns 3
