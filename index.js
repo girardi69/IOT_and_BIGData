@@ -1,4 +1,10 @@
-var camper = 'James';
-var camper = 'David';
-console.log(camper);
-// logs 'David'
+let catName;
+let quote;
+function catTalk() {
+  "use strict";
+
+  catName = "Oliver";
+  quote = catName + " says Meow!";
+
+}
+console.log(catTalk());
