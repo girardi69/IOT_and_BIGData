@@ -1,9 +1,9 @@
-const sum = (function() {
-    "use strict";
-    return function sum( ...args) {
-      
-      return args.reduce((a, args) => a + args, 0);
-    };
-  })();
-  console.log(sum(1,2,3,4)); // 6
+const arr1 = ['JAN', 'FEB', 'MAR', 'APR', 'MAY'];
+let arr2;
+(function() {
+  "use strict";
+  arr2 = [...arr1]; // change this line
+})();
+console.log(arr2[2]);
 
+  
