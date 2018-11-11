@@ -1,9 +1,16 @@
-const arr1 = ['JAN', 'FEB', 'MAR', 'APR', 'MAY'];
-let arr2;
-(function() {
+const AVG_TEMPERATURES = {
+  today: 77.5,
+  tomorrow: 79
+};
+
+function getTempOfTmrw(avgTemperatures) {
   "use strict";
-  arr2 = [...arr1]; // change this line
-})();
-console.log(arr2[2]);
+  // change code below this line
+  const {today: tempOfToday , tomorrow: tempOfTomorrow } = avgTemperatures; // change this line
+  // change code above this line
+  return tempOfToday;
+}
+
+console.log(getTempOfTmrw(AVG_TEMPERATURES)); // should be 79
 
   
