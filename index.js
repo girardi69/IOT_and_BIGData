@@ -1,9 +1,5 @@
-const circle = {
-    radius: 1
-};
-
-circle.color = "Yellow";
-circle.draw = function() {}
-
-
-console.log(circle);
+function greeting(name = "Anonymous") {
+    return "Hello " + name;
+  }
+  console.log(greeting("John")); // Hello John
+  console.log(greeting()); // Hello Anonymous
