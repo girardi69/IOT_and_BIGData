@@ -1,16 +1,11 @@
-const AVG_TEMPERATURES = {
-  today: 77.5,
-  tomorrow: 79
-};
-
-function getTempOfTmrw(avgTemperatures) {
+let catName;
+let quote;
+function catTalk() {
   "use strict";
-  // change code below this line
-  const {today: tempOfToday , tomorrow: tempOfTomorrow } = avgTemperatures; // change this line
-  // change code above this line
-  return tempOfToday;
+
+  catName = "Oliver";
+  quote = catName + " says Meow!";
+  return quote;
 }
-
-console.log(getTempOfTmrw(AVG_TEMPERATURES)); // should be 79
-
+console.log(catTalk());
   
