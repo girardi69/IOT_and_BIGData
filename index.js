@@ -7,5 +7,4 @@ function catTalk() {
   quote = catName + " says Meow!";
   return quote;
 }
-console.log(catTalk());
-  
+console.log("Andrew");
