@@ -1,4 +1,3 @@
-# js-basics  
-
-This is the develop branch.  
-Now it has become the master branch.  
+This is the master branch.  
+Now I'm am on my PC and I'm able to commit from here on the master branch.
+ 
