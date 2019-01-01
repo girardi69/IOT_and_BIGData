@@ -20,7 +20,7 @@ Language Frontend: HTML, CSS, Javascript Full-Stack: Javascript, ES6 Full-Stack:
 10May16 First Wordpress website created
 9Jun18 Oracle: Oauth Understanding  
 25Oct18 Again on freeCodeCamp with javascript  
-26Oct18 Discover VisualStudioCODE  
+26Oct18 Udemy Javascript for beginners Discover VisualStudioCODE  
 9Nov18 Started understand Git  
 10Nov18 Git flow implemented with ATOM  
 15Dec18 Udemy AWS Developer: S3  
@@ -34,4 +34,5 @@ Language Frontend: HTML, CSS, Javascript Full-Stack: Javascript, ES6 Full-Stack:
 28Dec18 Udemy AWS Developer: S3  
 29Dec18 Udemy AWS Developer: AWS CLI, Elastic Beanstalk  
 30Dec18 Udemy AWS Developer: CICD, CodeCommit  
+31Dec18 Udemy AWS Developer: CloudFormation  
 1Jan19 Udemy AWS Developer: Elastic Beanstalk Reinforcement
