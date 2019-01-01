@@ -34,3 +34,4 @@ Language Frontend: HTML, CSS, Javascript Full-Stack: Javascript, ES6 Full-Stack:
 28Dec18 Udemy AWS Developer: S3  
 29Dec18 Udemy AWS Developer: AWS CLI, Elastic Beanstalk  
 30Dec18 Udemy AWS Developer: CICD, CodeCommit  
+1Jan19 Udemy AWS Developer: Elastic Beanstalk Reinforcement
