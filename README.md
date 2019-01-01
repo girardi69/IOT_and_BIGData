@@ -25,6 +25,8 @@ Language Frontend: HTML, CSS, Javascript Full-Stack: Javascript, ES6 Full-Stack:
 26Oct18 Udemy Javascript for beginners Discover VisualStudioCODE  
 9Nov18 Started understand Git  
 10Nov18 Git flow implemented with ATOM  
+11Nov18 End of Javascript ES6 and switch to git  
+pause to work  
 15Dec18 Udemy AWS Developer: S3  
 16Dec18  
 22Dec18 Git Flow Rebase  
