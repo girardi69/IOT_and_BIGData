@@ -40,4 +40,6 @@ pause to work
 29Dec18 Udemy AWS Developer: AWS CLI, Elastic Beanstalk  
 30Dec18 Udemy AWS Developer: CICD, CodeCommit  
 31Dec18 Udemy AWS Developer: CloudFormation  
-1Jan19 Udemy AWS Developer: Elastic Beanstalk Reinforcement
+1Jan19 Udemy AWS Developer: Elastic Beanstalk Reinforcement  
+2Jan19 Udemy AWS Developer: Cloudwatch, X-Ray, Cloudtrail  
+3Jan19 Udemy AWS Certified Sysops Admin: VPCs  
