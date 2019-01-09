@@ -2,7 +2,7 @@ lo cambio ancora una volta
 This is the master branch.  
 Now I'm am on my PC and I'm able to commit from here on the master branch.
 Now I'm changing two files in the same commit.  
- 
+
 My journey on machine learning
 
 It all started on 2016. Previously Machine Learning (ML) was a intuition on how numbers and data can help me to solve real problems. Between real problems, one I consider most important for me is mastering running techniques, that is I use numbers for running, and when I run. The first encounter was with a repository present in Github, "Machine Learning for Software Engineers", that showed me the graph of the houses prices compared to the location. It worked in the iPad and was an example of classification. More examples came, all with a fascination of something not known. The next step was the first technical approach, with the three methods of machine learning: supervised, unsupervised and by reinforcement. I came also on an intereting method that was explaining how to memorize things, with the flip card method.
@@ -42,4 +42,5 @@ pause to work
 31Dec18 Udemy AWS Developer: CloudFormation  
 1Jan19 Udemy AWS Developer: Elastic Beanstalk Reinforcement  
 2Jan19 Udemy AWS Developer: Cloudwatch, X-Ray, Cloudtrail  
-3Jan19 Udemy AWS Certified Sysops Admin: VPCs  
+3Jan19 Udemy AWS Certified Sysops Admin: VPCs
+7Jan19 Udemy AWS Certified Sysops Admin: High Availability
