@@ -43,5 +43,5 @@ pause to work
 1Jan19 Udemy AWS Developer: Elastic Beanstalk Reinforcement  
 2Jan19 Udemy AWS Developer: Cloudwatch, X-Ray, Cloudtrail  
 3Jan19 Udemy AWS Certified Sysops Admin: VPCs
-7Jan19 Udemy AWS Certified Sysops Admin: High Availability
-12Jan19 AWS IoT account setup w/beanstalk
+7Jan19 Udemy AWS Certified Sysops Admin: High Availability  
+12Jan19 AWS IoT account setup w/beanstalk  
