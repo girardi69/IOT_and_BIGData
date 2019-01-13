@@ -225,5 +225,10 @@ Type "vi file.txt" at command prompt
 Move cursor to where new text will be added
 Type "i" to change to insert mode
 Type new text
-Type ESC to go back to command mode
-type ":wq" and ENTER to write the file and quit
+Type ESC to go back to command mode  
+type ":wq" and ENTER to write the file and quit  
+
+
+git config --global --edit  
+questo comando ha cambiato il committente del codice. ho dovito aprire il file e usare vim  
+git commit --amend --reset-author  
