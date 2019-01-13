@@ -180,3 +180,50 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | man [command] |  Show the help manual for [command] |
 | whatis [command] | Gives a one-line description of [command] |
 | apropos [search-pattern] | Searches for command with keywords in description |
+
+Thursday, December 11, 2008
+Vi[m]
+Vi is an one of two powerhouse text editors in the Unix world, the other being EMACS. While obtuse, vi is extremely powerful and efficient. There may be times when vi is the only text editor available, so it helps to at least know the basics.
+
+On Mac OS X (and Linux), vi is symlinked to vim (vi improved), a more modern free software version. Vim It is the default editor when changing a crontab.
+
+If you gave vi a whirl and don't see the beauty of it, give the nano editor a try. It also ships with Mac OS X.
+
+note: a chunk of this small guide came from a web page I found long ago, but I don't remember where so I can't give proper credit. I've added and changed things from the original text.
+
+Vi has two modes, command and insert (really, three if you count replace mode). Command mode is used to navigate, search, and issue other commands. Insert mode is used to enter text.
+
+Vi starts in command mode.
+
+You can precede most commands with a number indicating how many times to perform a command. For example, entering 99 followed by the down arrow will move the cursor down 99 lines. "99x" will delete 99 characters.
+
+While in command mode (case sensitive)
+move the cursor with arrow keys; if there aren't any arrow keys, use j,k,h,l
+i - change to insert mode (before cursor)
+a - change to insert mode (after cursor)
+A - change to insert mode (at end of line)
+r - replace one character
+R - overwrite text
+x - delete one character
+dd - delete one line
+yy - yank line (copy)
+p - paste deleted or yanked text after cursor
+P - paste deleted or yanked text before cursor
+G - go to end of the file
+1G - go to top of the file
+J - merge next line with this one
+/ - search, follow / with text to find
+:wq - write file and quit
+:q! - quit without saving
+%s/old/new/g - substitute; replace "old" with "new" on all lines
+:g/pattern/d - delete all lines that match the pattern
+While in insert mode
+ESC - change to command mode
+any text typed is entered at the cursor
+Typical vi session
+Type "vi file.txt" at command prompt
+Move cursor to where new text will be added
+Type "i" to change to insert mode
+Type new text
+Type ESC to go back to command mode
+type ":wq" and ENTER to write the file and quit
