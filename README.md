@@ -45,6 +45,8 @@ pause to work
 3Jan19 Udemy AWS Certified Sysops Admin: VPCs  
 7Jan19 Udemy AWS Certified Sysops Admin: High Availability  
 12Jan19 AWS IoT account setup w/beanstalk  
+20Jan19 Udemy AWS Developer: Lambda (5h)  
+26Jan19 Udemy AWS Developer: DynamoDB (5h 18/18)  
 
 _Letters are shown capitalized for readability only._  _Capslock should be off._
 ## SHORTCUTS
