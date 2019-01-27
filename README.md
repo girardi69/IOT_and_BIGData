@@ -47,7 +47,18 @@ pause to work
 12Jan19 AWS IoT account setup w/beanstalk  
 20Jan19 Udemy AWS Developer: Lambda (5h)  
 26Jan19 Udemy AWS Developer: DynamoDB (5h 18/18)  
-
+27Jan19 Udemy AWS Developer: API Gateway (2h 10/14)  
+2Feb19  
+3Feb19  
+8Feb19  
+9Feb19  
+10Feb19  
+15Feb19  
+16Feb19  
+17Feb19  
+22Feb19  
+23Feb19  
+24Feb19  
 _Letters are shown capitalized for readability only._  _Capslock should be off._
 ## SHORTCUTS
 
