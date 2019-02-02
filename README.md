@@ -48,11 +48,11 @@ pause to work
 20Jan19 Udemy AWS Developer: Lambda (5h)  
 26Jan19 Udemy AWS Developer: DynamoDB (5h 18/18)  
 27Jan19 Udemy AWS Developer: API Gateway (2h 10/14)  
-2Feb19  
-3Feb19  
+2Feb19 ?ECS  
+3Feb19 ?Sec and Encryption  
 8Feb19  
 9Feb19  
-10Feb19  
+10Feb19 ?Seconda uscita  
 15Feb19  
 16Feb19  
 17Feb19  
