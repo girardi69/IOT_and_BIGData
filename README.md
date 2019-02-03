@@ -49,8 +49,8 @@ pause to work
 26Jan19 Udemy AWS Developer: DynamoDB (5h 18/18)  
 27Jan19 Udemy AWS Developer: API Gateway (2h 10/14)  
 1Feb19 25Q Linkedin Linux RHEL  
-2Feb19 65Q CloudFormation ?ECS  
-3Feb19 ?Sec and Encryption  
+2Feb19 65Q CloudFormation  
+3Feb19 Udemy AWS Developer(19): Lambda (5h)  
 8Feb19  
 9Feb19  
 10Feb19 ?Seconda uscita  
