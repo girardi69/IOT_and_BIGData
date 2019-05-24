@@ -53,15 +53,15 @@ pause to work
 3Feb19 Udemy AWS Developer(19): Lambda (5h)  
 8Feb19  
 9Feb19  
-10Feb19 ?Seconda uscita  
 15Feb19  
 16Feb19  
 17Feb19  
 22Feb19  
 23Feb19  
 24Feb19  
-30APR19 AWS CERTIFIED developer
-1MAY19 BIG DATA Enrollment
-4MAY19 AWS IOT
-11MAY1O EMR
-18MAY19 EMR
+30APR19 AWS CERTIFIED developer  
+1MAY19 BIG DATA Enrollment  
+4MAY19 AWS IOT  
+11MAY1O EMR  
+18MAY19 EMR  
+ 
