@@ -29,7 +29,7 @@ Language Frontend: HTML, CSS, Javascript Full-Stack: Javascript, ES6 Full-Stack:
 11Nov18 End of Javascript ES6 and switch to git  
 pause to work  
 ## AWS Developer Course  
-https://interactive.linuxacademy.com/diagrams/TheSigmaScripts.html. 
+https://interactive.linuxacademy.com/diagrams/TheSigmaScripts.html  
 15Dec18 Udemy AWS Developer: S3  
 16Dec18  
 22Dec18 Git Flow Rebase  
@@ -62,6 +62,8 @@ https://interactive.linuxacademy.com/diagrams/TheSigmaScripts.html.
 23Feb19  
 24Feb19  
 30APR19 AWS CERTIFIED developer  
+## AWS Big Data Course  
+
 1MAY19 BIG DATA Enrollment  
 4MAY19 AWS IOT  
 11MAY1O EMR  
