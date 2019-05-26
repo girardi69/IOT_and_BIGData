@@ -28,6 +28,8 @@ Language Frontend: HTML, CSS, Javascript Full-Stack: Javascript, ES6 Full-Stack:
 10Nov18 Git flow implemented with ATOM  
 11Nov18 End of Javascript ES6 and switch to git  
 pause to work  
+## AWS Developer Course  
+https://interactive.linuxacademy.com/diagrams/TheSigmaScripts.html. 
 15Dec18 Udemy AWS Developer: S3  
 16Dec18  
 22Dec18 Git Flow Rebase  
