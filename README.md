@@ -7,17 +7,11 @@ My journey on machine learning
 
 It all started on 2016. Previously Machine Learning (ML) was a intuition on how numbers and data can help me to solve real problems. Between real problems, one I consider most important for me is mastering running techniques, that is I use numbers for running, and when I run. The first encounter was with a repository present in Github, "Machine Learning for Software Engineers", that showed me the graph of the houses prices compared to the location. It worked in the iPad and was an example of classification. More examples came, all with a fascination of something not known. The next step was the first technical approach, with the three methods of machine learning: supervised, unsupervised and by reinforcement. I came also on an intereting method that was explaining how to memorize things, with the flip card method.
 Learning by heart the first concepts was something necessary, therefore I put on my flip cards the ML methods and I started repeating. It was funny, my daughter was asking me the methods all the afternoon, and at the end my daughter was learning better than me!
+1May16 AWS Account created.  
 7May17 Created my first ML dataset from Strava, exctracting the Prague Marathon results and combining with the
-10May17 Machine Learning presentation in Maserati 13May17 Today I created my first Kaggle Dataset on Marathon running and I submitted my first prediction
+10May17 Machine Learning presentation in Maserati  
+13May17 Today I created my first Kaggle Dataset on Marathon running and I submitted my first prediction.  
 
-Cybersecurity OAUTH PKI Certificates Cryptography
-
-DevOps Git Github  
-
-Cloud AWS  
-
-Language Frontend: HTML, CSS, Javascript Full-Stack: Javascript, ES6 Full-Stack:Python  
-1May16 AWS Account created
 10May16 First Wordpress website created
 9Jun18 Oracle: Oauth Understanding  
 21Oct18 Freecodecamp  
@@ -62,10 +56,21 @@ https://interactive.linuxacademy.com/diagrams/TheSigmaScripts.html
 23Feb19  
 24Feb19  
 30APR19 AWS CERTIFIED developer  
+  
 ## AWS Big Data Course  
-
+https://interactive.linuxacademy.com/diagrams/thedatadispatch.html  
 1MAY19 BIG DATA Enrollment  
 4MAY19 AWS IOT  
 11MAY1O EMR  
 18MAY19 EMR  
- 
+26May19 AWS IoT + EMR.  
+  
+  
+  
+Cybersecurity OAUTH PKI Certificates Cryptography
+
+DevOps Git Github  
+
+Cloud AWS  
+
+Language Frontend: HTML, CSS, Javascript Full-Stack: Javascript, ES6 Full-Stack:Python  
