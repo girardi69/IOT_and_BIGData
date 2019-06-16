@@ -66,7 +66,8 @@ https://interactive.linuxacademy.com/diagrams/thedatadispatch.html
 18MAY19 EMR  
 26May19 AWS IoT + EMR.  
   
-  
+13jun19 s3 bucket policies make data transfer unnecessary for data lake
+16JUN19 minecraft deep study 
   
 Cybersecurity OAUTH PKI Certificates Cryptography
 
