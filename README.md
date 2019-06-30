@@ -70,7 +70,7 @@ https://interactive.linuxacademy.com/diagrams/thedatadispatch.html
 16JUN19 minecraft deep study  
 22-23-24JUN WireShark  
 29JUN19 Alexa  
-
+30JUN19 Data Pipeline
 
 
 
