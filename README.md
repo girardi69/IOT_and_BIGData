@@ -71,7 +71,7 @@ https://interactive.linuxacademy.com/diagrams/thedatadispatch.html
 22-23-24JUN WireShark  
 29JUN19 Alexa  
 30JUN19 Data Pipeline
-
+4-5JUL19 Lambda Canary Deployment
 
 
 Cybersecurity OAUTH PKI Certificates Cryptography
