@@ -74,8 +74,9 @@ https://interactive.linuxacademy.com/diagrams/thedatadispatch.html
 22-23-24JUN WireShark  
 29JUN19 Alexa  
 30JUN19 Data Pipeline
-4-5JUL19 Lambda Canary Deployment
-
+4-5JUL19 Lambda Canary Deployment.  
+13JUL19 Python course: Introduction to Python - Keith Thompson - Strings, Numbers, Booleans, Variables, Lists
+14JUL19 Lambda course: AWS Serverless Udemy - Shreya Vakil - Lambda Basics 
 
 Cybersecurity OAUTH PKI Certificates Cryptography
 
