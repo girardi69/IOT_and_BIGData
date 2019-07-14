@@ -77,6 +77,7 @@ https://interactive.linuxacademy.com/diagrams/thedatadispatch.html
 4-5JUL19 Lambda Canary Deployment.  
 6JUL19 Python - Jupyter on IRIS example  
 7JUL19 Python - Jupyter Lab on AWS  
+10Jul19 Azure Certified - AZ900  
 13JUL19 Python course: Introduction to Python - Keith Thompson - Strings, Numbers, Booleans, Variables, Lists  
 14JUL19 Lambda course: AWS Serverless Udemy - Shreya Vakil - Lambda Basics on NodeJS   
 
