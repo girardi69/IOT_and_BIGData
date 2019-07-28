@@ -80,7 +80,11 @@ https://interactive.linuxacademy.com/diagrams/thedatadispatch.html
 10Jul19 Azure Certified - AZ900  
 13JUL19 Python course: Introduction to Python - Keith Thompson - Strings, Numbers, Booleans, Variables, Lists  
 14JUL19 Lambda course: AWS Serverless Udemy - Shreya Vakil - Lambda Basics on NodeJS   
-
+20JUL19 API Gateway  
+21Jul16 API Gateway Messages  
+26Jul19 EC2 + KDF + S3  
+27JUL19 Kinesis + Lambda + DynamoDB + Troubleshooting and visibility  
+28JUL19 Big Data Kane  
 Cybersecurity OAUTH PKI Certificates Cryptography
 
 DevOps Git Github  
