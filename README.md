@@ -85,6 +85,12 @@ https://interactive.linuxacademy.com/diagrams/thedatadispatch.html
 26Jul19 EC2 + KDF + S3  
 27JUL19 Kinesis + Lambda + DynamoDB + Troubleshooting and visibility  
 28JUL19 Big Data Kane  
+14AUG19 Python Classes  
+15 AUG19 Big Step Forward Python  
+16AUG19 Python Magic Functions  
+
+
+
 Cybersecurity OAUTH PKI Certificates Cryptography
 
 DevOps Git Github  
