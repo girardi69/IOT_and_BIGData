@@ -88,8 +88,10 @@ https://interactive.linuxacademy.com/diagrams/thedatadispatch.html
 14AUG19 Python Classes  
 15 AUG19 Big Step Forward Python  
 16AUG19 Python Magic Functions  
+15NOV19 AWS Big Data Certification
 
-
+12APR20 Azure Powershell Course 3hr
+19APR20 Azure Monitor
 
 Cybersecurity OAUTH PKI Certificates Cryptography
 
