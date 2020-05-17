@@ -89,14 +89,10 @@ https://interactive.linuxacademy.com/diagrams/thedatadispatch.html
 15 AUG19 Big Step Forward Python  
 16AUG19 Python Magic Functions  
 15NOV19 AWS Big Data Certification
-
+... ECONOMY
 12APR20 Azure Powershell Course 3hr
 19APR20 Azure Monitor
+10MAY20 Azure API Gateway complete mock up
+16MAY20 Javascript, Atom Environment
+17MAY20 More Javascript
 
-Cybersecurity OAUTH PKI Certificates Cryptography
-
-DevOps Git Github  
-
-Cloud AWS  
-
-Language Frontend: HTML, CSS, Javascript Full-Stack: Javascript, ES6 Full-Stack:Python  
