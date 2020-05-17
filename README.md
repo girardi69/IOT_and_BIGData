@@ -16,7 +16,7 @@ Learning by heart the first concepts was something necessary, therefore I put on
 10May17 Machine Learning presentation in Maserati  
 13May17 Today I created my first Kaggle Dataset on Marathon running and I submitted my first prediction.  
 
-10May16 First Wordpress website created
+10May16 First Wordpress website created  
 9Jun18 Oracle: Oauth Understanding  
 21Oct18 Freecodecamp  
 
@@ -59,13 +59,13 @@ https://interactive.linuxacademy.com/diagrams/TheSigmaScripts.html
 22Feb19  
 23Feb19  
 24Feb19  
-30APR19 AWS CERTIFIED developer  
+30APR19 ...  AWS CERTIFIED developer  
   
 ## AWS Big Data Course  
 https://interactive.linuxacademy.com/diagrams/thedatadispatch.html  
 1MAY19 BIG DATA Enrollment  
 4MAY19 AWS IOT  
-11MAY1O EMR  
+11MAY19 EMR  
 18MAY19 EMR  
 26May19 AWS IoT + EMR.  
   
@@ -77,7 +77,7 @@ https://interactive.linuxacademy.com/diagrams/thedatadispatch.html
 4-5JUL19 Lambda Canary Deployment.  
 6JUL19 Python - Jupyter on IRIS example  
 7JUL19 Python - Jupyter Lab on AWS  
-10Jul19 Azure Certified - AZ900  
+10Jul19 ...  Azure Certified - AZ900  
 13JUL19 Python course: Introduction to Python - Keith Thompson - Strings, Numbers, Booleans, Variables, Lists  
 14JUL19 Lambda course: AWS Serverless Udemy - Shreya Vakil - Lambda Basics on NodeJS   
 20JUL19 API Gateway  
@@ -86,9 +86,9 @@ https://interactive.linuxacademy.com/diagrams/thedatadispatch.html
 27JUL19 Kinesis + Lambda + DynamoDB + Troubleshooting and visibility  
 28JUL19 Big Data Kane  
 14AUG19 Python Classes  
-15 AUG19 Big Step Forward Python  
+15AUG19 Big Step Forward Python  
 16AUG19 Python Magic Functions  
-15NOV19 AWS Big Data Certification
+15NOV19 ...  AWS Big Data Certification
 ... ECONOMY
 12APR20 Azure Powershell Course 3hr
 19APR20 Azure Monitor
