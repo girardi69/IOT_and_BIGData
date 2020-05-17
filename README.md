@@ -93,6 +93,6 @@ https://interactive.linuxacademy.com/diagrams/thedatadispatch.html
 12APR20 Azure Powershell Course 3hr
 19APR20 Azure Monitor
 10MAY20 Azure API Gateway complete mock up
-16MAY20 Javascript, Atom Environment
-17MAY20 More Javascript
+16MAY20 Javascript, Atom Environment "Tic-tac-toe" javascript game  
+17MAY20 More Javascript "Space Invaders" javascript game  
 
