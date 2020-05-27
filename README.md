@@ -89,10 +89,17 @@ https://interactive.linuxacademy.com/diagrams/thedatadispatch.html
 15AUG19 Big Step Forward Python  
 16AUG19 Python Magic Functions  
 15NOV19 ...  AWS Big Data Certification
-... ECONOMY
-12APR20 Azure Powershell Course 3hr
-19APR20 Azure Monitor
-10MAY20 Azure API Gateway complete mock up
+... ECONOMY  
+12APR20 Azure Powershell Course 3hr  
+19APR20 Azure Monitor  
+10MAY20 Azure API Gateway complete mock up  
 16MAY20 Javascript, Atom Environment "Tic-tac-toe" javascript game  
 17MAY20 More Javascript "Space Invaders" javascript game  
-
+26MAY20 Minesweeper javascript game  
+Memory  
+Wack-a-Mole  
+Connect Four  
+Snake  
+Space Invaders  
+Frogger  
+Tetris  
