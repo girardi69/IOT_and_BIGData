@@ -103,3 +103,11 @@ Snake
 Space Invaders  
 Frogger  
 Tetris  
+3OCT20 Started LPI Linux Essentials on Linux Academy  
+10OCT20 Commandline Basis  
+11OCT20 Using the commandline to get help - Man and Info  
+17OCT20 Creating, moving and deleting files  
+18OCT20 Searching and extracting data from files  
+  
+  
+1NOV20 Linux Wget
