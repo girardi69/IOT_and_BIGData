@@ -88,8 +88,10 @@ https://interactive.linuxacademy.com/diagrams/thedatadispatch.html
 14AUG19 Python Classes  
 15AUG19 Big Step Forward Python  
 16AUG19 Python Magic Functions  
-15NOV19 ...  AWS Big Data Certification
-... ECONOMY  
+15NOV19 ...  __AWS Big Data Certification__
+  
+... ECONOMY BOOKS ...  
+  
 12APR20 Azure Powershell Course 3hr  
 19APR20 Azure Monitor  
 10MAY20 Azure API Gateway complete mock up  
@@ -108,6 +110,8 @@ Tetris
 11OCT20 Using the commandline to get help - Man and Info  
 17OCT20 Creating, moving and deleting files  
 18OCT20 Searching and extracting data from files  
-  
-  
+    
 1NOV20 Linux Wget
+1FEB21 Started AZ-104 in Leitner
+5APR21 Started Introduction to databases on Linux  
+
