@@ -115,5 +115,5 @@ Tetris
 
 1FEB21 Started AZ-104 in Leitner
 5APR21 Started Introduction to databases on Linux  
-14APR21 LPI Linux Essentials Exam  
+14APR21 __LPI Linux Essentials__ Certification  
 17APR21 VIRTUALBOX + KALI + UBUNTU on laptop  
