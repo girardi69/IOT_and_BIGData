@@ -106,12 +106,14 @@ Space Invaders
 Frogger  
 Tetris  
 3OCT20 Started LPI Linux Essentials on Linux Academy  
-10OCT20 Commandline Basis  
+10OCT20 Commandline Basics  
 11OCT20 Using the commandline to get help - Man and Info  
 17OCT20 Creating, moving and deleting files  
 18OCT20 Searching and extracting data from files  
     
 1NOV20 Linux Wget
+
 1FEB21 Started AZ-104 in Leitner
 5APR21 Started Introduction to databases on Linux  
-
+14APR21 LPI Linux Essentials Exam  
+17APR21 VIRTUALBOX + KALI + UBUNTU on laptop  
