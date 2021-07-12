@@ -120,3 +120,4 @@ Tetris
 4MAY21 Started PL-900 in Leitner  
 11MAY21 Finished AZ-104 in Leitner  
 17MAY21 Started using Brainscape  
+12JUL21 DOM in Javascript Fundamentals - Programming the DOM and BOM pluralsight
