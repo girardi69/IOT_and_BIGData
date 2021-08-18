@@ -119,5 +119,10 @@ Tetris
 17APR21 VIRTUALBOX + KALI + UBUNTU on laptop
 4MAY21 Started PL-900 in Leitner  
 11MAY21 Finished AZ-104 in Leitner  
-17MAY21 Started using Brainscape  
-12JUL21 DOM in Javascript Fundamentals - Programming the DOM and BOM pluralsight
+17MAY21 Started using Brainscape 
+01JUL21 Started teaching HTML and CSS  
+12JUL21 DOM in Javascript Fundamentals - Programming the DOM and BOM pluralsight  
+04AUG21 Achieved Rank 8 in CODEWARS  
+08AUG21 Achieved Rank 7 in CODEWARS  
+15AUG21 Achieved Rank 6 in CODEWARS  
+18AUG21 Achieved Rank 5 in CODEWARS  
