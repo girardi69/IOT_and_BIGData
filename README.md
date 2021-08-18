@@ -105,6 +105,7 @@ Snake
 Space Invaders  
 Frogger  
 Tetris  
+## LPI Linux Essentials
 3OCT20 Started LPI Linux Essentials on Linux Academy  
 10OCT20 Commandline Basics  
 11OCT20 Using the commandline to get help - Man and Info  
@@ -119,7 +120,8 @@ Tetris
 17APR21 VIRTUALBOX + KALI + UBUNTU on laptop
 4MAY21 Started PL-900 in Leitner  
 11MAY21 Finished AZ-104 in Leitner  
-17MAY21 Started using Brainscape 
+17MAY21 Started using Brainscape  
+## Coding Front-end  
 01JUL21 Started teaching HTML and CSS  
 12JUL21 DOM in Javascript Fundamentals - Programming the DOM and BOM pluralsight  
 04AUG21 Achieved Rank 8 in CODEWARS  
