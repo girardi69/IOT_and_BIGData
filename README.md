@@ -127,4 +127,9 @@ Tetris
 04AUG21 Achieved Rank 8 in CODEWARS  
 08AUG21 Achieved Rank 7 in CODEWARS  
 15AUG21 Achieved Rank 6 in CODEWARS  
-18AUG21 Achieved Rank 5 in CODEWARS  
+18AUG21 Achieved Rank 5 in CODEWARS
+12OCT21 Started studying on RHCSA/RHCSE  
+15OCT21 Worked on RHEL8 courses  
+17OCT21 rebase git study  
+18OCT21 reached full understanding of git  
+19OCT21 linked the first server git repository to github  
