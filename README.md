@@ -111,9 +111,9 @@ Tetris
 11OCT20 Using the commandline to get help - Man and Info  
 17OCT20 Creating, moving and deleting files  
 18OCT20 Searching and extracting data from files  
-    
+...    
 1NOV20 Linux Wget
-
+...  
 1FEB21 Started AZ-104 in Leitner
 5APR21 Started Introduction to databases on Linux  
 14APR21 __LPI Linux Essentials__ Certification  
@@ -133,3 +133,4 @@ Tetris
 17OCT21 rebase git study  
 18OCT21 reached full understanding of git  
 19OCT21 linked the first server git repository to github  
+09NOV21 Started Devops course
