@@ -133,4 +133,8 @@ Tetris
 17OCT21 rebase git study  
 18OCT21 reached full understanding of git  
 19OCT21 linked the first server git repository to github  
-09NOV21 Started Devops course
+09NOV21 Started Devops course in Leitner  
+08DEC21 
+08DEC21 Linkedin Learning __Git Essential Training: The Basics__ Kevin Shoglund
+.. study on working as a single user, no collaboration   
+11DEC21 Linkedin Learning __Git Essential Training: The Basics__ Kevin Shoglund
