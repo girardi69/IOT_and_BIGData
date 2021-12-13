@@ -139,4 +139,4 @@ Tetris
 08DEC21  
 08DEC21 Linkedin Learning ***Git*** *Essential Training: The Basics* Kevin Shoglund  
    study on working as a single user, no collaboration   
-11DEC21 Linkedin Learning ***Git*** *Essential Training: The Basics* Kevin Shoglund  
+11DEC21 Linkedin Learning ***Git*** *Essential Training: ThE Basics* Kevin Shoglund  
