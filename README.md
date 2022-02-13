@@ -133,12 +133,12 @@ Tetris
 17OCT21 rebase git study  
 18OCT21 reached full understanding of git  
 19OCT21 linked the first server git repository to github  
-28OCT21 ***Bash*** *Mastery: The complete guide to Bash Shell Scripting* by Ziyad Yehia  
+28OCT21 *Bash Mastery: The complete guide to Bash Shell Scripting* by Ziyad Yehia  
 29OCT21 *Learn Advance Unix/Linux: File Processing using* ***AWK and SED*** by Testing World  
 09NOV21 Started Devops course in Leitner  
 08DEC21  
-08DEC21 Linkedin Learning ***Git*** *Essential Training: The Basics* Kevin Shoglund  
+08DEC21 Linkedin *Git Essential Training: The Basics* Kevin Shoglund  
    study on working as a single user, no collaboration   
-11DEC21 Linkedin Learning ***Git*** *Essential Training: ThE Basics* Kevin Shoglund  
+11DEC21 Linkedin *GitEssential Training: ThE Basics* Kevin Shoglund  
 05JAN21 Udemy *Vim Masterclass* by Jason Cannon  
 05JAN21 Udemy *Linux Shell Scripting* by Jason Cannon   
