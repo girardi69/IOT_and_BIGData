@@ -130,6 +130,7 @@ Tetris
 18AUG21 Achieved Rank 5 in CODEWARS
 12OCT21 Started studying on RHCSA/RHCSE  
 15OCT21 Worked on RHEL8 courses  
+## BASH LANGUAGE: VIM SED AWK and Scripting
 17OCT21 rebase git study  
 18OCT21 reached full understanding of git  
 19OCT21 linked the first server git repository to github  
