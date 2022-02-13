@@ -136,9 +136,10 @@ Tetris
 28OCT21 *Bash Mastery: The complete guide to Bash Shell Scripting* by Ziyad Yehia  
 29OCT21 *Learn Advance Unix/Linux: File Processing using* ***AWK and SED*** by Testing World  
 09NOV21 Started Devops course in Leitner  
-08DEC21  
 08DEC21 Linkedin *Git Essential Training: The Basics* Kevin Shoglund  
    study on working as a single user, no collaboration   
 11DEC21 Linkedin *GitEssential Training: ThE Basics* Kevin Shoglund  
 05JAN21 Udemy *Vim Masterclass* by Jason Cannon  
-05JAN21 Udemy *Linux Shell Scripting* by Jason Cannon   
+05JAN21 Udemy *Linux Shell Scripting* by Jason Cannon  
+11FEB21 Memorized Bash essential vocabulary  
+12FEB21 Solved first Bash problem in codewars     
