@@ -127,7 +127,7 @@ Tetris
 04AUG21 Achieved Rank 8 in CODEWARS  
 08AUG21 Achieved Rank 7 in CODEWARS  
 15AUG21 Achieved Rank 6 in CODEWARS  
-18AUG21 Achieved Rank 5 in CODEWARS
+18AUG21 Achieved Rank 5 in CODEWARS  
 12OCT21 Started studying on RHCSA/RHCSE  
 15OCT21 Worked on RHEL8 courses  
 ## BASH LANGUAGE: VIM SED AWK and Scripting
@@ -135,12 +135,13 @@ Tetris
 18OCT21 reached full understanding of git  
 19OCT21 linked the first server git repository to github  
 28OCT21 *Bash Mastery: The complete guide to Bash Shell Scripting* by Ziyad Yehia  
-29OCT21 *Learn Advance Unix/Linux: File Processing using* ***AWK and SED*** by Testing World  
+29OCT21 *Learn Advance Unix/Linux: File Processing using AWK and SED* by Testing World  
 09NOV21 Started Devops course in Leitner  
 08DEC21 Linkedin *Git Essential Training: The Basics* Kevin Shoglund  
    study on working as a single user, no collaboration   
 11DEC21 Linkedin *GitEssential Training: ThE Basics* Kevin Shoglund  
-05JAN21 Udemy *Vim Masterclass* by Jason Cannon  
-05JAN21 Udemy *Linux Shell Scripting* by Jason Cannon  
-11FEB21 Memorized Bash essential vocabulary  
-12FEB21 Solved first Bash problem in codewars     
+05JAN22 Udemy *Vim Masterclass* by Jason Cannon  
+05JAN22 Udemy *Linux Shell Scripting* by Jason Cannon  
+10JAN22 O' Reilly Books *Vim, Sed&Awk,Git*  
+11FEB22 Memorized Bash essential vocabulary  
+12FEB22 Solved first Bash problem in codewars     
