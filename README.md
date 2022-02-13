@@ -140,3 +140,5 @@ Tetris
 08DEC21 Linkedin Learning ***Git*** *Essential Training: The Basics* Kevin Shoglund  
    study on working as a single user, no collaboration   
 11DEC21 Linkedin Learning ***Git*** *Essential Training: ThE Basics* Kevin Shoglund  
+05JAN21 Udemy *Vim Masterclass* by Jason Cannon  
+05JAN21 Udemy *Linux Shell Scripting* by Jason Cannon   
