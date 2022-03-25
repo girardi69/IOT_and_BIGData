@@ -145,3 +145,5 @@ Tetris
 10JAN22 O' Reilly Books *Vim, Sed&Awk,Git*  
 11FEB22 Memorized Bash essential vocabulary  
 12FEB22 Solved first Bash problem in codewars     
+01MAR22 Worked on Bash scripting  
+25MAR22 Studied git stash  
