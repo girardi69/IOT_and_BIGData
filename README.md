@@ -147,7 +147,7 @@ Tetris
 12FEB22 Solved first Bash problem in codewars     
 01MAR22 Worked on Bash scripting  
 25MAR22 Studied git stash  
-16APR22 *** Wireshark Masteclass ***  
+## Wireshark Masteclass  
 17APR22 Foundational TCP Greer  
 18APR22 Wireshark for Cyber Greer  
 19APR22 Troubleshooting Wireshark Bagourdes  
