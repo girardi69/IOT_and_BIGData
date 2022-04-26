@@ -147,9 +147,13 @@ Tetris
 12FEB22 Solved first Bash problem in codewars     
 01MAR22 Worked on Bash scripting  
 25MAR22 Studied git stash  
-## Wireshark Masteclass  
-17APR22 Foundational TCP Greer  
-18APR22 Wireshark for Cyber Greer  
-19APR22 Troubleshooting Wireshark Bagourdes  
-20APR22 Visualize Network traffic Greer  
-21APR22 Mastering TCP Greer  
+31MAR22 Cannon *Linux Shelll Scripting*  
+## Wireshark Masterclass  
+17APR22 Greer Foundational TCP  
+18APR22 Greer Wireshark for Cyber  
+19APR22 Bagourdes Troubleshooting Wireshark  
+20APR22 Greer Visualize Network traffic  
+21APR22 Greer Mastering TCP  
+22APR22 Greer Identify Common Cyber Network Attacks  
+23APR22 Greer Analyzing Network protocols with wireshark  
+24APR22 Greer NMAP Xmas scan/ OS fingerprinting  
