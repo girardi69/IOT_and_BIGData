@@ -1,8 +1,26 @@
-# First course was on Udacity, Sebastian Thrun and Kathie Malone
+PS = Pluralsight  
+ACG = Cloud Guru  
+LA = Linux Academy  
+YT = Youtube  
+  
+  
+  
+  
+  
+First course was on Udacity, Sebastian Thrun and Kathie Malone
 https://classroom.udacity.com/courses/ud120/lessons/2410328539/concepts/24185385370923
 
-https://interactive.linuxacademy.com/diagrams/TheSysOpsAdminCodex.html.  
-
+https://interactive.linuxacademy.com/diagrams/TheSysOpsAdminCodex.html  
+https://interactive.linuxacademy.com/diagrams/TheSigmaScripts.html  
+https://interactive.linuxacademy.com/diagrams/thedatadispatch.html  Big Data  
+https://interactive.linuxacademy.com/diagrams/ThePodofMinerva.html  Kubernetes  
+https://interactive.linuxacademy.com/diagrams/LPIEssentials.html  
+https://interactive.linuxacademy.com/diagrams/LearnMicroServicesByDoing.html  
+https://interactive.linuxacademy.com/diagrams/TheOrionPapers.html  AWS Admin  
+https://interactive.linuxacademy.com/diagrams/ApacheKafkaDD.html  
+https://interactive.linuxacademy.com/diagrams/DevopsDoctrine2019.html  
+  
+  
 This is the master branch.  
 Now I'm am on my PC and I'm able to commit from here on the master branch.
 Now I'm changing two files in the same commit.  
@@ -27,7 +45,6 @@ Learning by heart the first concepts was something necessary, therefore I put on
 11Nov18 End of Javascript ES6 and switch to git  
 pause to work  
 ## AWS Developer Course  
-https://interactive.linuxacademy.com/diagrams/TheSigmaScripts.html  
 15Dec18 Udemy AWS Developer: S3  
 16Dec18  
 22Dec18 Git Flow Rebase  
@@ -62,7 +79,6 @@ https://interactive.linuxacademy.com/diagrams/TheSigmaScripts.html
 30APR19 ...  AWS CERTIFIED developer  
   
 ## AWS Big Data Course  
-https://interactive.linuxacademy.com/diagrams/thedatadispatch.html  
 1MAY19 BIG DATA Enrollment  
 4MAY19 AWS IOT  
 11MAY19 EMR  
@@ -149,11 +165,11 @@ Tetris
 25MAR22 Studied git stash  
 31MAR22 Cannon *Linux Shelll Scripting*  
 ## Wireshark Masterclass  
-17APR22 Greer Foundational TCP  
-18APR22 Greer Wireshark for Cyber  
-19APR22 Bagourdes Troubleshooting Wireshark  
-20APR22 Greer Visualize Network traffic  
-21APR22 Greer Mastering TCP  
-22APR22 Greer Identify Common Cyber Network Attacks  
-23APR22 Greer Analyzing Network protocols with wireshark  
-24APR22 Greer NMAP Xmas scan/ OS fingerprinting  
+17APR22 PS Greer Foundational TCP  
+18APR22 PS Greer Wireshark for Cyber  
+19APR22 PS Bagourdes Troubleshooting Wireshark  
+20APR22 PS Greer Visualize Network traffic  
+21APR22 PS Greer Mastering TCP  
+22APR22 PS Greer Identify Common Cyber Network Attacks  
+23APR22 PS Greer Analyzing Network protocols with wireshark  
+24APR22 YT Greer NMAP Xmas scan/ OS fingerprinting  
