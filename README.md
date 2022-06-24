@@ -173,4 +173,6 @@ Tetris
 22APR22 PS Greer Identify Common Cyber Network Attacks  
 23APR22 PS Greer Analyzing Network protocols with wireshark  
 24APR22 YT Greer NMAP Xmas scan/ OS fingerprinting  
-AGGIUNTA UNA RIGA DIMOSTRATIVA\
+## LPIC-101 Preparation
+20MAY22 Exam failed  
+24JUN22 two git account commit on the same bare repository in the server  
