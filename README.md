@@ -175,5 +175,5 @@ Tetris
 24APR22 YT Greer NMAP Xmas scan/ OS fingerprinting  
 ## LPIC-101 Preparation
 20MAY22 Exam failed  
-13JUN22 CHESS 1000 ELO Reached!
+13JUN22 CHESS 1000 ELO Reached!  
 24JUN22 two git account commit on the same bare repository in the server  
