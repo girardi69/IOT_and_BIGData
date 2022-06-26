@@ -144,9 +144,9 @@ Tetris
 08AUG21 Achieved Rank 7 in CODEWARS  
 15AUG21 Achieved Rank 6 in CODEWARS  
 18AUG21 Achieved Rank 5 in CODEWARS  
+## BASH LANGUAGE: VIM SED AWK and Scripting
 12OCT21 Started studying on RHCSA/RHCSE  
 15OCT21 Worked on RHEL8 courses  
-## BASH LANGUAGE: VIM SED AWK and Scripting
 17OCT21 rebase git study  
 18OCT21 reached full understanding of git  
 19OCT21 linked the first server git repository to github  
@@ -154,13 +154,13 @@ Tetris
 29OCT21 *Learn Advance Unix/Linux: File Processing using AWK and SED* by Testing World  
 09NOV21 Started Devops course in Leitner  
 08DEC21 Linkedin *Git Essential Training: The Basics* Kevin Shoglund  
-   study on working as a single user, no collaboration   
+09DEC21 git Working as a single user, no collaboration, add and push     
 11DEC21 Linkedin *GitEssential Training: ThE Basics* Kevin Shoglund  
 05JAN22 Udemy *Vim Masterclass* by Jason Cannon  
 05JAN22 Udemy *Linux Shell Scripting* by Jason Cannon  
 10JAN22 O' Reilly Books *Vim, Sed&Awk,Git*  
 11FEB22 Memorized Bash essential vocabulary  
-12FEB22 Solved first Bash problem in codewars     
+12FEB22 Solved first Bash problem in codewars  
 01MAR22 Worked on Bash scripting  
 25MAR22 Studied git stash  
 31MAR22 Cannon *Linux Shelll Scripting*  
@@ -178,7 +178,7 @@ Tetris
 13JUN22 CHESS 1000 ELO Reached!  
 ## Devops Rebase  
 17JUN22 Concepts: Imperative vs Declarative  
-23JUN22 O' Reilly *Kubernetes Up & Running"  
-24JUN22 two git accounts (andrea, kloi) commit on the same bare repository in the server  
+23JUN22 O' Reilly *Kubernetes Up & Running*  No Starch *RUST*  
+24JUN22 git working as two accounts (andrea, kloi) commit on the same bare repository in the server  
 25JUN22 stabilized the git collaboration environment  
 26JUN22 first trials with conflicts in stable collab environment (reached machine ..86)  
