@@ -173,7 +173,12 @@ Tetris
 22APR22 PS Greer Identify Common Cyber Network Attacks  
 23APR22 PS Greer Analyzing Network protocols with wireshark  
 24APR22 YT Greer NMAP Xmas scan/ OS fingerprinting  
-## LPIC-101 Preparation
+## LPIC-101 Preparation  
 20MAY22 Exam failed  
 13JUN22 CHESS 1000 ELO Reached!  
-24JUN22 two git account commit on the same bare repository in the server  
+## Devops Rebase  
+17JUN22 Concepts: Imperative vs Declarative  
+23JUN22 O' Reilly *Kubernetes Up & Running"  
+24JUN22 two git accounts (andrea, kloi) commit on the same bare repository in the server  
+25JUN22 stabilized the git collaboration environment  
+26JUN22 first trials with conflicts in stable collab environment (reached machine ..86)  
