@@ -182,6 +182,9 @@ Tetris
 24JUN22 git working as two accounts (andrea, kloi) commit on the same bare repository in the server  
 25JUN22 stabilized the git collaboration environment  
 26JUN22 first trials with conflicts in stable collab environment (reached machine ..86)  
+## Back to Races
+01JUL22 Pack and Train to Lapland  
+22AUG22 250k Run in LAPLAND  
 31AUG22 CHESS DESTROYED to 800  
 ## Coding mindfulness  
 07SEP22 No Starch *Wicked Cool Shell Scripts*  
