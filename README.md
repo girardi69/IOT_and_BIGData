@@ -191,3 +191,4 @@ Tetris
 09SEP22 No Starch *DevOps for the Desperate*  
 10SEP22 #83Unscramble    
 11SEP22 Started to hack shell scripts  
+15SEP22 Udemy *RUST* *AZ-400 Devops*   
