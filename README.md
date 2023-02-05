@@ -192,5 +192,6 @@ Tetris
 10SEP22 #83Unscramble    
 11SEP22 Started to hack shell scripts  
 15SEP22 Udemy *RUST* *AZ-400 Devops*   
+23DEC22 Started using NeoVIM and Github Copilot on ubuntugit60  
 20JAN23 Udemy *LPIC-1* by Christine Breshanan  
 04FEB23 LPIC-1 102.4 and 102.5 Package management well understood  
