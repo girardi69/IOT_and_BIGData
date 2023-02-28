@@ -192,7 +192,7 @@ Tetris
 15SEP22 Udemy *RUST* *AZ-400 Devops*   
 23DEC22 Started using NeoVIM and Github Copilot on ubuntugit60  
 20JAN23 Udemy *LPIC-1* by Christine Breshanan  
-04FEB23 LPIC-1 102.4 and 102.5 Package management well understood 
+04FEB23 LPIC-1 102.4 and 102.5 Package management well understood   
 17FEB23 Started coding with Gregorio  
 21FEB23 Programmazione in C++ Apogeo  
 28FEB23 Started coding C++ on chromebook  
