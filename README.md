@@ -198,4 +198,4 @@ Tetris
 28FEB23 Started coding C++ on chromebook  
 04MAR23 Learning Journalctl  
 05MAR23 Learning Boot the system  
-
+12MAR23 Found the GRUB  
