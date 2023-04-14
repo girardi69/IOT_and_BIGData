@@ -1,3 +1,4 @@
+--|--|--|--|--
 Constellation|Designation|Modern proper name|Historical names/comments|English pronunciation[b][9][10][11][12][13][full citation needed]
 Lynx|XO-5|Absolutno*|IAU new 2019
 Czech Republic proposal; a fictional substance in the novel Továrna na absolutno by Karel Čapek.|//
