@@ -199,3 +199,4 @@ Tetris
 04MAR23 Learning Journalctl  
 05MAR23 Learning Boot the system  
 12MAR23 Found the GRUB  
+01MAY23 Combined new vision of APT and Systemd. Started reading instead of memorizing  
