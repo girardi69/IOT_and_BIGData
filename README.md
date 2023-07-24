@@ -202,3 +202,4 @@ Tetris
 01MAY23 Combined new vision of APT and Systemd. Started reading instead of memorizing  
 05MAY23 Processes 103.5 & 103.6 chapters  
 07MAY23 Screen Utility  
+24JUL23 Codewars exercises in Apache Server on Ubuntuprod101  
