@@ -17,6 +17,7 @@ https://interactive.linuxacademy.com/diagrams/LearnMicroServicesByDoing.html
 https://interactive.linuxacademy.com/diagrams/TheOrionPapers.html  AWS Admin  
 https://interactive.linuxacademy.com/diagrams/ApacheKafkaDD.html  
 https://interactive.linuxacademy.com/diagrams/DevopsDoctrine2019.html  
+https://www.lucidchart.com/documents/embeddedchart/681cbd68-2dfb-4b57-b022-6378490d31d3#  Essential Container Concepts  
   
   
 This is the master branch.  
@@ -25,7 +26,7 @@ Now I'm changing two files in the same commit.
 
 My journey on machine learning
 
-It all started on 2016. Previously Machine Learning (ML) was a intuition on how numbers and data can help me to solve real problems. Between real problems, one I consider most important for me is mastering running techniques, that is I use numbers for running, and when I run. The first encounter was with a repository present in Github, "Machine Learning for Software Engineers", that showed me the graph of the houses prices compared to the location. It worked in the iPad and was an example of classification. More examples came, all with a fascination of something not known. The next step was the first technical approach, with the three methods of machine learning: supervised, unsupervised and by reinforcement. I came also on an intereting method that was explaining how to memorize things, with the flip card method.
+It all started on 2016. Previously Machine Learning (ML) was a intuition on how numbers and data can help me to solve real problems. Between real problems, one I consider most important for me is mastering running techniques, that is I use numbers for running, and when I run. The first encounter was with a repository present in Github, "Machine Learning for Software Engineers", that showed me the graph of the houses prices compared to the location. It worked in the iPad and was an example of classification. More examples came, all with a fascination of something not known. The next step was the first technical approach, with the three methods of machine learning: supervised, unsupervised and by reinforcement. I was studying that with my daughters in Sauze d'Oulx while them repeating for school. I came also on an interesting method that was explaining how to memorize things, with the flip card method.
 Learning by heart the first concepts was something necessary, therefore I put on my flip cards the ML methods and I started repeating. It was funny, my daughter was asking me the methods all the afternoon, and at the end my daughter was learning better than me!
 1May16 AWS Account created.  
 7May17 Created my first ML dataset from Strava, exctracting the Prague Marathon results and combining with the
@@ -102,10 +103,9 @@ pause to work
 14AUG19 Python Classes  
 15AUG19 Big Step Forward Python  
 16AUG19 Python Magic Functions  
-15NOV19 ...  __AWS Big Data Certification__
-  
+15NOV19 ...  __AWS Big Data Certification__  
 ... ECONOMY BOOKS ...  
-  
+## NEW JOB IN LEITNER !!  
 12APR20 Azure Powershell Course 3hr  
 19APR20 Azure Monitor  
 10MAY20 Azure API Gateway complete mock up  
@@ -173,6 +173,7 @@ Tetris
 24APR22 YT Greer NMAP Xmas scan/ OS fingerprinting  
 ## LPIC-101 Preparation  
 20MAY22 Exam failed  
+## NEW JOB IN SKF!!
 13JUN22 CHESS 1000 ELO Reached!  
 ## Devops Rebase  
 17JUN22 Concepts: Imperative vs Declarative  
@@ -204,3 +205,6 @@ Tetris
 07MAY23 Screen Utility  
 24JUL23 Codewars exercises in Apache Server on Ubuntuprod101  
 02DIC23 Docker First Installation in UBUNTU https://docs.docker.com/engine/install/ubuntu/#installation-methods\
+03DIC23 LA Docker Quick Start  
+15DEC23 Program Management Training GPM2  
+16DIC23 LA Essential Container Concepts  
