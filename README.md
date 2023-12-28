@@ -203,8 +203,14 @@ Tetris
 01MAY23 Combined new vision of APT and Systemd. Started reading instead of memorizing  
 05MAY23 Processes 103.5 & 103.6 chapters  
 07MAY23 Screen Utility  
+16JUL23 KUBERNETES First AKS App AzureVote (then deprecated) and kubectl use without understanding  
 24JUL23 Codewars exercises in Apache Server on Ubuntuprod101  
 02DIC23 Docker First Installation in UBUNTU https://docs.docker.com/engine/install/ubuntu/#installation-methods\
 03DIC23 LA Docker Quick Start  
 15DEC23 Program Management Training GPM2  
-16DIC23 LA Essential Container Concepts  
+16DEC23 LA Essential Container Concepts, chroot environment, mind opening libraries ldd /bin/bash  
+17DEC23 KUBERNETES Second AKS App AzureStore and kubectl practice  
+24DEC23 theconstructsim.com Robot Operating System  
+25DEC23 O'reilly subscription and decision for CKAD (Developer is before administrator) and LPIC-1 Boot process review  
+26DEC23 My first permanent Kubernetes cluster in Cloud Guru Plauground    
+28DEC23 O'Reilly CKAD 2nd ED Chapter5 Pods and Namespaces - Entered in a pod with /bin/sh  
