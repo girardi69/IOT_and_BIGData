@@ -214,3 +214,5 @@ Tetris
 25DEC23 O'reilly subscription and decision for CKAD (Developer is before administrator) and LPIC-1 Boot process review  
 26DEC23 My first permanent Kubernetes cluster in Cloud Guru Plauground    
 28DEC23 O'Reilly CKAD 2nd ED Chapter5 Pods and Namespaces - Entered in a pod with /bin/sh  
+13JAN23 Understood Volumes, Volume Mounts, Persistent Volumes, Persistent Volume Claims  
+20JAN23 More practice n Kubernetes  
