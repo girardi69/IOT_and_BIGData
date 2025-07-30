@@ -222,3 +222,6 @@ Tetris
 ## Colab Discovery
 18APR25 First colab Repository
 22APR25 Colab Repository on Image Processing
+
+## Nexstar communication
+29JUL25 First python program to read coordinates from Nexstar+ and Celestron 5SE
